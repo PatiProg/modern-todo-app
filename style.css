@@ -109,7 +109,7 @@ input[type="checkbox"]:checked {
   justify-content: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   main {
     padding: 20px;
   }
